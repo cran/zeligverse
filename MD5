@@ -1,0 +1,12 @@
+19f91a836e5dabc1f6b33ed09845ff27 *DESCRIPTION
+5ab5f7943fe8ce4d68534d30e75bb426 *NAMESPACE
+a5b947b2ae5795c87138f0e49eb21b25 *NEWS.md
+dd1b8d7cd2a63c51ebd735072fcd91b2 *R/attach.R
+03293a0f693983a2e4d812239d1bba1f *R/utils.R
+a3e88fd0713ea52ab550a29ddab400af *R/zeligverse.R
+b5dd606ab2ff3283d69c585ee4e0eda6 *R/zzz.R
+771118c767889f2972bca0f28d63fd0f *README.md
+0c6df7a3fd72f6356621bafc6c775f8e *man/figures/zelig.png
+9ee4b9ca48878fb0a5797f5091d30e75 *man/zeligverse-package.Rd
+014c0a17870caab854fcac18a03582e4 *tests/testthat.R
+5355c357c88fcc2e0958aaafe2b9bc07 *tests/testthat/test-attach.R
